@@ -8,12 +8,12 @@ HTML5, CSS3, JavaScript
 ## 📁 Project List
 
 |No. | Project            | Link                                                                |
-|1|  |--------------------|----------------------------------------------------------------------
-|2|  | Tic Tac Toe        | [Preview](https://nandani027.github.io/My-Projects/tictactoe.html)     |
-|3|  | Rock Paper Scissors| [Preview](https://nandani027.github.io/My-Projects/app.html)           |
-|4|  | Currency Converter | [Preview](https://nandani027.github.io/My-Projects/converter.html)     |
-|5|  | Calculator         | [Preview](https://nandani027.github.io/My-Projects/calculator.html)    |
-|6|  | Amazon Clone       | [Preview](https://nandani027.github.io/My-Projects/amazon%20clone.html)|
+---  |--------------------|----------------------------------------------------------------------
+|1|  | Tic Tac Toe        | [Preview](https://nandani027.github.io/My-Projects/tictactoe.html)     |
+|2|  | Rock Paper Scissors| [Preview](https://nandani027.github.io/My-Projects/app.html)           |
+|3|  | Currency Converter | [Preview](https://nandani027.github.io/My-Projects/converter.html)     |
+|4|  | Calculator         | [Preview](https://nandani027.github.io/My-Projects/calculator.html)    |
+|5|  | Amazon Clone       | [Preview](https://nandani027.github.io/My-Projects/amazon%20clone.html)|
 
 
 
