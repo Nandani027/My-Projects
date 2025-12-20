@@ -4,9 +4,6 @@ You can check it out at -https://nandani027.github.io/My-Projects/
 ## Technologies Used 🧑‍💻
 HTML5, CSS3, JavaScript
 ## Included Projects 💡
-## 📁 Project List
-## 📁 Project List
-## 📁 Project List
 
 | No. | Project             | Link                                                                |
 |-----|---------------------|---------------------------------------------------------------------|
