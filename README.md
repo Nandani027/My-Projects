@@ -1,9 +1,27 @@
-# My-Projects 🧩
-**My Projects**  is a responsive and interactive portfolio webpage designed to showcase various web-based mini-projects such as Tic Tac Toe, Rock Paper Scissors, Currency Converter, Calculator, and an Amazon Clone. .<br>
-You can check it out at -https://nandani027.github.io/My-Projects/
-## Technologies Used 🧑‍💻
-HTML5, CSS3, JavaScript
-## Included Projects 💡
+# 🧩 My-Projects 
+
+*My Projects is a responsive, interactive portfolio website that showcases multiple web-based mini projects built with HTML, CSS, and JavaScript.*
+This project demonstrates a clean UI with a navigation bar, search bar, and horizontal project slider to browse individual mini projects from a single portfolio page.
+
+
+---
+
+## 🌐 Live Site
+
+You can view the deployed website here:  
+[**https://nandani027.github.io/My-Projects/**](https://nandani027.github.io/My-Projects/)
+
+---
+
+## 🧑‍💻 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+---
+
+## 💡 Included Projects 
 
 | No. | Project             | Link                                                                |
 |-----|---------------------|---------------------------------------------------------------------|
